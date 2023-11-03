@@ -35,7 +35,7 @@ Insightful Data Science graduate student with immense technical and human potent
 > - Models used: PCA, Linear SVM, radial-based SVM, Random Forest, LDA, QDA, K-Means
 >
 
-***Mathematical and Statistical Analysis on the effect of COVID-19 on the Internet Infrastructure and a case study on its effect on people***
+[***Mathematical and Statistical Analysis on the Effect of COVID-19 on the Internet Infrastructure and a Case Study on its Effect on people***](https://github.com/Rindhujatreesa/Internet_Infrastructure_in_India_and_the_effect_of_COVID-19)
 >
 > - Collected, cleaned, analyzed, and visualized data on Internet Usage and Infrastructure in India before and during COVID-19.
 > - Utilized MS Excel, and Python3 on the Jupyter environment, and deployed PCA and SVD 
