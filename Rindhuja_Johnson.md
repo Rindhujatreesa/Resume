@@ -29,7 +29,7 @@ Insightful Data Science graduate student with immense technical and human potent
 
 ### PROJECTS AND INTERNSHIPS
 
-(***A comparative analysis of different Machine Learning models on the MNIST data set***)[https://github.com/Rindhujatreesa/Machine_Learning_Projects]
+[***A comparative analysis of different Machine Learning models on the MNIST data set***](https://github.com/Rindhujatreesa/Machine_Learning_Projects)
 >
 > - Used different prediction metrics to compare the effect of various classifiers and clusterings on a single data set
 > - Models used: PCA, Linear SVM, radial-based SVM, Random Forest, LDA, QDA, K-Means
