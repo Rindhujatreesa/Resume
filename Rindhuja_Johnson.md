@@ -3,7 +3,7 @@
 > ### Catonsville, MD, 21228
 > Ph: 9147465465
 > 
-> [Email]("rindhuj1@umbc.edu") >  [GitHub](https://github.com/Rindhujatreesa) > [LinkedIn](https://www.linkedin.com/in/rindhuja-johnson)
+> [Email]("rindhuj1@umbc.edu") |  [GitHub](https://github.com/Rindhujatreesa) | [LinkedIn](https://www.linkedin.com/in/rindhuja-johnson) | [Portfolio](rindhujatreesa.github.io)
 
 ### EDUCATION
 
@@ -11,7 +11,7 @@
 
 ***MPS Data Science***
 >
-> Skills: Machine Learning in Python, Geospatial Data Analysis using R, Big Data using PySpark, Data Management with SQL
+> Skills: Machine Learning in Python, Geospatial Data Analysis using R, Big Data using PySpark, Data Management with SQL, Financial Data Science
 >
 > **GPA: 4.0/4.0**
 
@@ -44,9 +44,18 @@ Insightful Data Science graduate student with immense technical and human potent
 
 ### EMPLOYMENT HISTORY
 
+<left>**UMBC Data Science Program** </left>  <right>*(Jan 2024 - Present)*</right>
+
+***Graduate Assistant***
+> 
+> - Course: Platforms for Big Data Processing - AWS, Databricks, Apache Spark, Cassandra DB, Mongo DB, Hadoop
+> - Evaluate and grade student works as per established grading criteria, and offer constructive feedback
+> - Collaborate with course instructors to ensure consistency in grading, and preparing course materials
+> - Conduct regular office hours to assist students in seeking clarification on course concepts
+
 <left>**UMBC Sherman Scholars' Program** </left>  <right>*(Oct 2023 - Present)*</right>
 
-***Math Coach***
+***RTTP Math Coach***
 >
 > - Helping elementary/middle school students in capturing the mathematical concepts of their interests.
 > - Engaging students in math-related activities and helping them appreciate it more.
